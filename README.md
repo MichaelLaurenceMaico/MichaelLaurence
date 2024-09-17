@@ -44,8 +44,8 @@
         </thead>
         <tbody>
             <tr>
-                <td>Smartphone</td>
-                <td class="price">$699</td>
+                <td>Lexar</td>
+                <td class="price">P3500</td>
                 <td class="availability">In Stock</td>
             </tr>
             <tr>
