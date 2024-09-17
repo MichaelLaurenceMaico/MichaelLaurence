@@ -44,14 +44,14 @@
         </thead>
         <tbody>
             <tr>
-                <td>Fabs</td>
+                <td>Fans</td>
                 <td class="price">$35</td>
                 <td class="availability">In Stock</td>
             </tr>
             <tr>
                 <td>Dryer</td>
                 <td class="price">$500</td>
-                <td class="availability">Out of Stock</td>
+                <td class="availability">In Stock</td>
             </tr>
             <tr>
                 <td>Microwave</td>
