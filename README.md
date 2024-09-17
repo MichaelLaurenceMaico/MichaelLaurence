@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Table</title>
+    <title>Event Table</title>
     <style>
         table {
             width: 80%;
@@ -25,10 +25,7 @@
         tr:hover {
             background-color: #f1f1f1;
         }
-        .price {
-            text-align: right;
-        }
-        .availability {
+        .event-name {
             text-align: center;
         }
     </style>
@@ -37,36 +34,29 @@
     <table>
         <thead>
             <tr>
-                <th>Name of product</th>
-                <th class="price">Price</th>
-                <th class="availability">Availability</th>
+                <th colspan="3" class="event-name">Event Details</th>
+            </tr>
+            <tr>
+                <th>Event Name</th>
+                <th>Date</th>
+                <th>Location</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Fans</td>
-                <td class="price">$35</td>
-                <td class="availability">In Stock</td>
+                <td>Music Festival</td>
+                <td>October 10, 2024</td>
+                <td>Central Park, NYC</td>
             </tr>
             <tr>
-                <td>Dryer</td>
-                <td class="price">$500</td>
-                <td class="availability">In Stock</td>
+                <td>Tech Conference</td>
+                <td>November 5, 2024</td>
+                <td>Convention Center, San Francisco</td>
             </tr>
             <tr>
-                <td>Microwave</td>
-                <td class="price">$80</td>
-                <td class="availability">In Stock</td>
-            </tr>
-            <tr>
-                <td>Television</td>
-                <td class="price">$400</td>
-                <td class="availability">In Stock</td>
-            </tr>
-            <tr>
-                <td>Air conditioning</td>
-                <td class="price">$250</td>
-                <td class="availability">Limited Stock</td>
+                <td>Art Exhibition</td>
+                <td>December 1, 2024</td>
+                <td>Gallery Art Space, Chicago</td>
             </tr>
         </tbody>
     </table>
