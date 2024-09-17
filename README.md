@@ -37,35 +37,35 @@
     <table>
         <thead>
             <tr>
-                <th>Product Name</th>
+                <th>Name of product</th>
                 <th class="price">Price</th>
                 <th class="availability">Availability</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Lexar</td>
-                <td class="price">P3500</td>
+                <td>Fabs</td>
+                <td class="price">$35</td>
                 <td class="availability">In Stock</td>
             </tr>
             <tr>
-                <td>Laptop</td>
-                <td class="price">$1299</td>
+                <td>Dryer</td>
+                <td class="price">$500</td>
                 <td class="availability">Out of Stock</td>
             </tr>
             <tr>
-                <td>Wireless Earbuds</td>
-                <td class="price">$199</td>
+                <td>Microwave</td>
+                <td class="price">$80</td>
                 <td class="availability">In Stock</td>
             </tr>
             <tr>
-                <td>Smartwatch</td>
-                <td class="price">$249</td>
+                <td>Television</td>
+                <td class="price">$400</td>
                 <td class="availability">In Stock</td>
             </tr>
             <tr>
-                <td>Bluetooth Speaker</td>
-                <td class="price">$89</td>
+                <td>Air conditioning</td>
+                <td class="price">$250</td>
                 <td class="availability">Limited Stock</td>
             </tr>
         </tbody>
